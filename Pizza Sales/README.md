@@ -33,4 +33,7 @@ daily trends by pizza category,pizza size and pizza name.
 ✅Using Buttons to make transition to another page
 ✅Designing a clean and readable dashboard layout
 
+[https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png](https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png)
+![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/raw/main/Pizza%20Sales/HOME%20DASHBOARD.png)
+
 
