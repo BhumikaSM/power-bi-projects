@@ -34,4 +34,4 @@ daily trends by pizza category,pizza size and pizza name.
 - ✅Designing a clean and readable dashboard layout
 
 ![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png)
-
+![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/BEST%20AND%20WORST%20SELLERS.png)
