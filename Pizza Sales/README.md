@@ -8,30 +8,30 @@ To visualize and explore the metrics such as total revenue , total orders ,month
 daily trends by pizza category,pizza size and pizza name.
 
 # Features
--KPI's
-  -Total Revenue
-  -Average Order Value
-  -Total Pizza Sold
-  -Total Orders
-  -Average Pizza Per order
+- KPI's
+  - Total Revenue
+  - Average Order Value
+  - Total Pizza Sold
+  - Total Orders
+  - Average Pizza Per order
 
--Visuals used
-  -Bar chart
-  -Column Charts
-  -Donut Charts
-  -Line Charts
-  -Funnel Chart
-  -New Cards
-  -Text Boxes
-  -Buttons
-  -Slicers
+- Visuals used
+  - Bar chart
+  - Column Charts
+  - Donut Charts
+  - Line Charts
+  - Funnel Chart
+  - New Cards
+  - Text Boxes
+  - Buttons
+  - Slicers
 
 # key Insights
--✅Importing the data and transformation using Power Query
--✅Writiing DAX Measures to for KPI's 
--✅Enahancing dashboard interactivity using slicers
--✅Using Buttons to make transition to another page
--✅Designing a clean and readable dashboard layout
+- ✅Importing the data and transformation using Power Query
+- ✅Writiing DAX Measures to for KPI's 
+- ✅Enahancing dashboard interactivity using slicers
+- ✅Using Buttons to make transition to another page
+- ✅Designing a clean and readable dashboard layout
 
 ![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png)
 
