@@ -27,13 +27,11 @@ daily trends by pizza category,pizza size and pizza name.
   -Slicers
 
 # key Insights
-✅Importing the data and transformation using Power Query
-✅Writiing DAX Measures to for KPI's 
-✅Enahancing dashboard interactivity using slicers
-✅Using Buttons to make transition to another page
-✅Designing a clean and readable dashboard layout
+-✅Importing the data and transformation using Power Query
+-✅Writiing DAX Measures to for KPI's 
+-✅Enahancing dashboard interactivity using slicers
+-✅Using Buttons to make transition to another page
+-✅Designing a clean and readable dashboard layout
 
-[https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png]![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png)
-![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/raw/main/Pizza%20Sales/HOME%20DASHBOARD.png)
-
+![Pizza Sales Dashboard](https://github.com/BhumikaSM/power-bi-projects/blob/main/Pizza%20Sales/HOME%20DASHBOARD.png)
 
